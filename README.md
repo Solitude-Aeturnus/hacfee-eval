@@ -43,7 +43,6 @@ python evaluate.py --gold data/example_gold.jsonl --pred data/example_pred.jsonl
 
 ```
 micro overall  : P 0.7333  R 0.9167  F1 0.8148
-macro F1       : 0.0948
 ```
 
 ## Files
